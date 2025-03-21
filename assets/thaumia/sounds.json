@@ -1,0 +1,26 @@
+{
+  "coins": {
+    "sounds": [
+      {
+        "name": "thaumia:coins",
+        "stream": false
+      }
+    ]
+  },
+  "magic1": {
+    "sounds": [
+      {
+        "name": "thaumia:magic1",
+        "stream": false
+      }
+    ]
+  },
+  "instrument": {
+    "sounds": [
+      {
+        "name": "thaumia:instrument",
+        "stream": false
+      }
+    ]
+  }
+}
