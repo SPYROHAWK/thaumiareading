@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "package": "thaumia.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "mixins.thaumia.refmap.json",
+  "mixins": [],
+  "client": [],
+  "minVersion": "0.8"
+}
